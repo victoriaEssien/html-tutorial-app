@@ -1,0 +1,24 @@
+{
+  "items": [
+    {
+      "id": "1",
+      "name": "Introduction",
+      "description": "The <head> tag is a crucial part of any HTML document. It doesn't display content on the web page but contains essential information about the page. In this tutorial, we'll explore the purpose and elements commonly found within the <head> section of an HTML document."
+    },
+    {
+      "id": "2",
+      "name": "What is the <head> Tag?",
+      "description": "The <head> tag is placed within the <html> element but before the <body> element. It serves as a container for metadata and other elements that provide information about the document, such as character encoding, linked stylesheets, and more."
+    },
+    {
+      "id": "3",
+      "name": "Key Elements within <head>:\n\n",
+      "description": "<meta> Tags: These provide metadata about the document, including character encoding, page description, and keywords.\n\n<title> Tag: This defines the title of the document, which appears in the browser's title bar or tab.\n\n<link> Tag: It's used to link external resources such as stylesheets, icon files, or fonts to the HTML document.\n\n<style> Tag: You can include inline CSS styles within the <head> to control the document's styling.\n\n<script> Tag: This is where you can link or embed JavaScript code for interactivity and functionality on your webpage.\n\nOther Elements: Depending on your project's needs, you may also include elements like <base>, <meta> for viewport settings, or custom <meta> tags for social media sharing."
+    },
+    {
+      "id": "4",
+      "name": "Conclusion",
+      "description": "Understanding the purpose and components of the <head> tag is fundamental to creating well-structured and SEO-friendly web pages. Properly utilizing these elements can enhance your site's visibility, accessibility, and user experience."
+    }
+  ]
+}

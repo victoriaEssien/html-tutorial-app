@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "id": "1",
+      "name": "HTML (Hypertext Markup Language) is the backbone of web pages. It's the markup language used to structure content on the web. The <html> tag is the foundation of every HTML document. Let's explore it!",
+      "description": ""
+    },
+    {
+      "id": "2",
+      "name": "Basic Structure",
+      "description": "\n<html>: The opening and closing tags define the beginning and end of an HTML document.\n\n<head>: Contains metadata like the document's title and links to stylesheets and scripts.\n\n<body>: Houses the visible content of your web page, such as text, images, and links."
+    },
+    {
+      "id": "3",
+      "name": "Closing Tag",
+      "description": "\nAlways close your tags. Forgetting to close a tag can lead to unexpected results.\n\nHTML is versatile, allowing you to add images, links, forms, and more.\n\nThis is just the beginning of your HTML journey!"
+    }
+  ]
+}
