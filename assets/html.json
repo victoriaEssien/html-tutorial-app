@@ -8,12 +8,12 @@
     {
       "id": "2",
       "name": "Basic Structure",
-      "description": "\n<html>: The opening and closing tags define the beginning and end of an HTML document.\n\n<head>: Contains metadata like the document's title and links to stylesheets and scripts.\n\n<body>: Houses the visible content of your web page, such as text, images, and links."
+      "description": "<html>: The opening and closing tags define the beginning and end of an HTML document.\n\n<head>: Contains metadata like the document's title and links to stylesheets and scripts.\n\n<body>: Houses the visible content of your web page, such as text, images, and links."
     },
     {
       "id": "3",
-      "name": "Closing Tag",
-      "description": "\nAlways close your tags. Forgetting to close a tag can lead to unexpected results.\n\nHTML is versatile, allowing you to add images, links, forms, and more.\n\nThis is just the beginning of your HTML journey!"
+      "name": "\nClosing Tag",
+      "description": "Always close your tags. Forgetting to close a tag can lead to unexpected results.\n\nHTML is versatile, allowing you to add images, links, forms, and more.\n\nThis is just the beginning of your HTML journey!"
     }
   ]
 }

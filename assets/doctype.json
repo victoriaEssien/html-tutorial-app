@@ -12,27 +12,27 @@
     },
     {
       "id": "3",
-      "name": "Purpose of Doctype?",
+      "name": "\nPurpose of Doctype?",
       "description": "1. Compatibility: Doctype helps in ensuring that web browsers render the web page in the correct way by following the specified HTML standards. \n2. Validation: It allows validators to check the HTML document for compliance with the specified HTML version. \n3. Parsing: The Doctype declaration also assists the browser in parsing the document correctly."
     },
     {
       "id": "4",
-      "name": "Doctype Syntax",
+      "name": "\nDoctype Syntax",
       "description": "1. HTML5 Doctype: <!DOCTYPE html> \n2. HTML 4.01 Strict: <!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.01//EN\" \n3. HTML 4.01 Transitional: <!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//EN\" \n4. XHTML 1.0 Strict: <!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Strict//EN\">"
     },
     {
       "id": "5",
-      "name": "HTML5 Doctype",
+      "name": "\nHTML5 Doctype",
       "description": "1. HTML5 introduced a simplified Doctype that is compatible with modern browsers. \n2. <!DOCTYPE html> is all you need to declare the Doctype for an HTML5 document. \n3. It triggers the browser to render the document in standards mode, which is the recommended mode for HTML5 documents."
     },
     {
       "id": "6",
-      "name": "Compatibility Modes",
+      "name": "\nCompatibility Modes",
       "description": "1. Browsers have different rendering modes based on the Doctype declaration and standards compliance. \n2. Quirks Mode: If no Doctype or an outdated Doctype is specified, the browser may use a backward-compatibility mode known as \"quirks mode.\" This can lead to inconsistent rendering across different browsers. \n3. Standards Mode: Specifying a valid Doctype ensures that the browser uses the \"standards mode\" or \"strict mode,\" which ensures better consistency and adherence to HTML standards."
     },
     {
       "id": "7",
-      "name": "In summary, the Doctype declaration is an important element in HTML that specifies the HTML version and ensures proper rendering and compliance with web standards. By using the HTML5 Doctype (<!DOCTYPE html>), you can ensure compatibility with modern browsers and encourage standards-compliant HTML coding practices.",
+      "name": "\nIn summary, the Doctype declaration is an important element in HTML that specifies the HTML version and ensures proper rendering and compliance with web standards. By using the HTML5 Doctype (<!DOCTYPE html>), you can ensure compatibility with modern browsers and encourage standards-compliant HTML coding practices.",
       "description": ""
     }
   ]

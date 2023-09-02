@@ -7,17 +7,17 @@
     },
     {
       "id": "2",
-      "name": "What is the <body> Tag?",
+      "name": "\nWhat is the <body> Tag?",
       "description": "The <body> tag encloses all the visible content of your web page, such as text, images, links, and multimedia elements. It represents the main content area that users see when they visit your site."
     },
     {
       "id": "3",
-      "name": "Key Points:\n\n",
+      "name": "\nKey Points:",
       "description": "Content Placement: All the content you want to display on your webpage, including text, images, headings, and more, should be placed within the <body> tag.\n\nOnly One <body> Per Page: Each HTML page should have only one <body> tag, and it should encompass everything you want to show on that page.\n\nHierarchy: The <body> tag is nested inside the <html> tag and follows the <head> tag, which contains metadata and links to external resources."
     },
     {
       "id": "4",
-      "name": "Conclusion",
+      "name": "\nConclusion",
       "description": "Understanding how to use the <body> tag is essential for structuring the content of your web page. It's the container for what your visitors see and interact with, making it a vital element in web development.\n\nNow that you've learned about the <body> tag, you're ready to start creating the main content of your web pages. Experiment with different HTML elements and styles to build engaging and informative websites."
     }
   ]
